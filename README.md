@@ -1,5 +1,3 @@
-# YOUR_NAME
-
 **Frontend & Flutter Developer** building modern web and mobile apps.
 
 ## Tech Stack

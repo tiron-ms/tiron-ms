@@ -2,10 +2,6 @@
 
 **Frontend & Flutter Developer** building modern web and mobile apps.
 
-[![Email](https://img.shields.io/badge/Email-181717?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/YOUR_TG)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
-
 ## Tech Stack
 
 ![](https://skillicons.dev/icons?i=html,css,js,ts,dart,nodejs,react,nextjs,vite,tailwind,flutter&theme=dark)

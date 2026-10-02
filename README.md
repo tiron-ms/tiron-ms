@@ -3,8 +3,8 @@ Frontend & Flutter Developer building modern web and mobile apps.
 ## Tech Stack
 
 ### Languages & Core
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
@@ -18,7 +18,15 @@ Frontend & Flutter Developer building modern web and mobile apps.
 ![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
+### Flutter Ecosystem & Packages
+![GoRouter](https://shields.io)
+![Dio](https://shields.io)
+![Freezed](https://shields.io)
+![Flutter Animate](https://shields.io)
+![Secure Storage](https://shields.io)
+
 ---
+
 ### Operating Systems
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)

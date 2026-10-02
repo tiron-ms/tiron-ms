@@ -4,7 +4,9 @@
 
 ![](https://skillicons.dev/icons?i=html,css,js,ts,dart,nodejs,react,nextjs,vite,tailwind,flutter&theme=dark)
 
-![](https://skillicons.dev/icons?i=webstorm,vscode,figma,postman,vercel,git,github&theme=dark)
+![](https://skillicons.dev/icons?i=webstorm,vscode,xcode,androidstudio,figma,postman,vercel,git,github&theme=dark)
+
+![TestFlight](https://img.shields.io/badge/TestFlight-0D96F6?style=flat&logo=apple&logoColor=white)
 
 ## Coding Activity
 

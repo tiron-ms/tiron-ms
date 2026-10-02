@@ -65,8 +65,3 @@ Swift                    2 repos             █░░░░░░░░░░�
 
  Last Updated on 02/10/2026 05:18:32 UTC
 <!--END_SECTION:waka-->
-
-## GitHub Stats
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=github_dark)](https://github.com/YOUR_USERNAME)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=github_dark)](https://github.com/YOUR_USERNAME)

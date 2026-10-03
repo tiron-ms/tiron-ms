@@ -31,30 +31,6 @@ Saturday                 63 commits          █████░░░░░░�
 Sunday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 ```
 
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 11 hrs 11 mins (95.68%)
-
-✍️ 5,305 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 5,835,629 Input Tokens, 372,958 Output Tokens
-
-💵 $282.92 Estimated AI Cost This Week
-
-🧠 17 AI Sessions, 187 AI Prompts
-
-Spark                    5,587 lines         █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 451 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
-```
-
 **I Mostly Code in Dart** 
 
 ```text

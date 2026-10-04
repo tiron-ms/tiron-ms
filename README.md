@@ -9,27 +9,32 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2037%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-33%20hrs%208%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-82-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-🌆 Daytime                231 commits         █████████████████░░░░░░░░   66.57 % 
-🌃 Evening                67 commits          █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+🌞 Morning                48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+🌆 Daytime                234 commits         █████████████████░░░░░░░░   66.86 % 
+🌃 Evening                67 commits          █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
 🌙 Night                  1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   67 commits          █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-Tuesday                  55 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Wednesday                51 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Thursday                 40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-Friday                   51 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Saturday                 63 commits          █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-Sunday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+Monday                   67 commits          █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Tuesday                  55 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Wednesday                51 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Thursday                 40 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Friday                   51 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Saturday                 66 commits          █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+Sunday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 ```
+
 
 **I Mostly Code in Dart** 
 
@@ -44,5 +49,5 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 03:32:39 UTC
+ Last Updated on 04/10/2026 04:00:37 UTC
 <!--END_SECTION:waka-->

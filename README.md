@@ -9,7 +9,7 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-85%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue?style=flat)
 
@@ -37,15 +37,15 @@ Sunday                   32 commits          ██░░░░░░░░░�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     21 repos            ██████████░░░░░░░░░░░░░░░   38.18 % 
-TypeScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-JavaScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+Dart                     21 repos            █████████░░░░░░░░░░░░░░░░   37.50 % 
+TypeScript               13 repos            ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+JavaScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 
 
 
- Last Updated on 28/10/2026 03:45:06 UTC
+ Last Updated on 29/10/2026 04:05:40 UTC
 <!--END_SECTION:waka-->

@@ -4,7 +4,7 @@
 
 ![](https://skillicons.dev/icons?i=html,css,js,ts,dart,swift,nodejs,react,nextjs,vite,tailwind,flutter&theme=dark)
 
-![](https://skillicons.dev/icons?i=webstorm,vscode,androidstudio,figma,postman,vercel,git,github&theme=dark)
+![](https://skillicons.dev/icons?i=webstorm,vscode,supabase,androidstudio,figma,postman,vercel,git,github&theme=dark)
 
 ## Coding Activity
 

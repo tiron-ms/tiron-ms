@@ -2,7 +2,7 @@
 
 ## Tech Stack
 
-![](https://skillicons.dev/icons?i=html,css,js,ts,dart,swift,nodejs,react,nextjs,vite,tailwind,flutter&theme=dark)
+![](https://skillicons.dev/icons?i=html,css,js,ts,dart,swift,nodejs,react,nextjs,vite,redux,tailwind,flutter&theme=dark)
 
 ![](https://skillicons.dev/icons?i=webstorm,vscode,supabase,androidstudio,figma,postman,vercel,firebase,git,github&theme=dark)
 

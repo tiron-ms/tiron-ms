@@ -9,26 +9,26 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2028%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                67 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-🌆 Daytime                335 commits         ████████████████░░░░░░░░░   63.81 % 
-🌃 Evening                116 commits         ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+🌞 Morning                69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+🌆 Daytime                340 commits         ████████████████░░░░░░░░░   63.91 % 
+🌃 Evening                116 commits         █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+🌙 Night                  7 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   113 commits         █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
-Tuesday                  73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Wednesday                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Thursday                 63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Friday                   69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Saturday                 81 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Sunday                   62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Monday                   116 commits         █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+Tuesday                  73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Wednesday                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Thursday                 63 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Friday                   69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Saturday                 81 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Sunday                   66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
 ```
 
 
@@ -36,11 +36,11 @@ Sunday                   62 commits          ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Dart                     5 hrs 33 mins       ████████████████████░░░░░   79.63 % 
-Swift                    52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-CocoaPods                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Dart                     4 hrs 19 mins       ███████████████████░░░░░░   75.69 % 
+Swift                    52 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+XML                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 
 **I Mostly Code in Dart** 

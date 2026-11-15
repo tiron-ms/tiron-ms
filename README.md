@@ -9,7 +9,7 @@
 ## Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2034%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -35,10 +35,10 @@ Sunday                   66 commits          ███░░░░░░░░�
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     26 repos            ███████████░░░░░░░░░░░░░░   43.33 % 
+Dart                     27 repos            ███████████░░░░░░░░░░░░░░   45.00 % 
 TypeScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
 JavaScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
-Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 ```
 
